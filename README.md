@@ -1,4 +1,4 @@
-# AdventureWork 2019 - Sale Dashboard Project
+# AdventureWork 2019 - Power BI Sale Dashboard
 
 ## Introducion
 
